@@ -1,0 +1,41 @@
+body {
+	background: url("pobrane.jpg")
+}
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	color: white;
+}
+h2 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: center;
+}
+ul {
+	float: left;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+li a {
+
+	float: left;
+	text-align: center;
+	width: 19.79%;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: white;
+	
+}
+a:visited {
+	color: black;
+}
+.kontakt {
+	width: 100%;
+	border: 1px solid black;
+	background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
